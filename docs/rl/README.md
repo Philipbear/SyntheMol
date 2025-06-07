@@ -22,7 +22,7 @@ Space molecules.
 
 [wuxi.md](wuxi.md): Instructions for processing the WuXi building blocks, reactions, and molecules (May 2023 release).
 
-[antibiotics.md](antibiotics.md): Instructions for generating antibiotic candidates for _Staphyloccocus aureus_ using
+[antibiotics.md](antibiotics.md): Instructions for generating antibiotic candidates for _Staphylococcus aureus_ using
 reinforcement learning (RL). Includes instructions for processing antibiotics data, training antibacterial activity
 prediction models, generating molecules with SyntheMol-RL, and selecting candidates.
 
