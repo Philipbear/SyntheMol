@@ -1,8 +1,7 @@
 # SyntheMol-RL
 
-Below are instruments for reproducing the results from our forthcoming paper, which uses the reinforcement learning (
+Below are instruments for reproducing the results from the paper [SyntheMol-RL: a flexible reinforcement learning framework for designing novel and synthesizable antibiotics](https://www.biorxiv.org/content/10.1101/2025.05.17.654017v1), which uses the reinforcement learning (
 RL) version of SyntheMol.
-<!-- TODO: add link -->
 
 ## Data
 

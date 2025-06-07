@@ -1,8 +1,6 @@
 # Generating Novel Antibiotics with SyntheMol-RL
 
-Instructions for generating antibiotic candidates for _Staphylococcus aureus_ using SyntheMol-RL from our forthcoming
-paper.
-<!-- [TODO]: add link -->
+Instructions for generating antibiotic candidates for _Staphylococcus aureus_ using SyntheMol-RL from the paper [SyntheMol-RL: a flexible reinforcement learning framework for designing novel and synthesizable antibiotics](https://www.biorxiv.org/content/10.1101/2025.05.17.654017v1).
 
 This includes instructions for processing antibiotics data, training antibacterial activity prediction models,
 generating molecules with SyntheMol, and selecting candidates. Assumes relevant data has already been downloaded (

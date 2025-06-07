@@ -24,7 +24,9 @@ graph neural network or multilayer perceptron. SyntheMol uses two chemical space
 
 Notably, SyntheMol can be easily adapted to use any set of building blocks and reactions.
 
-SyntheMol-RL will be described in a forthcoming paper.
+SyntheMol-RL is described in the following paper, where we applied SyntheMol-RL to design novel antibiotic candidates for the Gram-positive bacterium _Staphyloccocus aureus_.
+
+Swanson, K., Liu, G., Catacutan, D. B., McLellan, S., Arnold, A., Tu, M., Brown, E. D., Zou, J., Stokes, J. M. [SyntheMol-RL: a flexible reinforcement learning framework for designing novel and synthesizable antibiotics](https://www.biorxiv.org/content/10.1101/2025.05.17.654017v1). _bioRxiv_, 2025.
 
 SyntheMol-MCTS is described in the following paper, where we applied SyntheMol to design novel antibiotic candidates for the Gram-negative bacterium _Acinetobacter baumannii_.
 
